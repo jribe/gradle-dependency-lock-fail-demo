@@ -1,20 +1,20 @@
 {
     "compile": {
         "com.amazonaws:aws-java-sdk-core": {
-            "locked": "1.11.140",
-            "requested": "1.11.140"
+            "locked": "1.11.145",
+            "requested": "1.+"
         }
     },
     "compileClasspath": {
         "com.amazonaws:aws-java-sdk-core": {
-            "locked": "1.11.140",
-            "requested": "1.11.140"
+            "locked": "1.11.145",
+            "requested": "1.+"
         }
     },
     "default": {
         "com.amazonaws:aws-java-sdk-core": {
-            "locked": "1.11.140",
-            "requested": "1.11.140"
+            "locked": "1.11.145",
+            "requested": "1.+"
         }
     },
     "junitPlatform": {
@@ -27,20 +27,20 @@
     },
     "runtime": {
         "com.amazonaws:aws-java-sdk-core": {
-            "locked": "1.11.140",
-            "requested": "1.11.140"
+            "locked": "1.11.145",
+            "requested": "1.+"
         }
     },
     "runtimeClasspath": {
         "com.amazonaws:aws-java-sdk-core": {
-            "locked": "1.11.140",
-            "requested": "1.11.140"
+            "locked": "1.11.145",
+            "requested": "1.+"
         }
     },
     "testCompile": {
         "com.amazonaws:aws-java-sdk-core": {
-            "locked": "1.11.140",
-            "requested": "1.11.140"
+            "locked": "1.11.145",
+            "requested": "1.+"
         },
         "org.junit.jupiter:junit-jupiter-api": {
             "locked": "5.0.0-M4",
@@ -49,8 +49,8 @@
     },
     "testCompileClasspath": {
         "com.amazonaws:aws-java-sdk-core": {
-            "locked": "1.11.140",
-            "requested": "1.11.140"
+            "locked": "1.11.145",
+            "requested": "1.+"
         },
         "org.junit.jupiter:junit-jupiter-api": {
             "locked": "5.0.0-M4",
@@ -59,8 +59,8 @@
     },
     "testRuntime": {
         "com.amazonaws:aws-java-sdk-core": {
-            "locked": "1.11.140",
-            "requested": "1.11.140"
+            "locked": "1.11.145",
+            "requested": "1.+"
         },
         "org.junit.jupiter:junit-jupiter-api": {
             "locked": "5.0.0-M4",
@@ -73,8 +73,8 @@
     },
     "testRuntimeClasspath": {
         "com.amazonaws:aws-java-sdk-core": {
-            "locked": "1.11.140",
-            "requested": "1.11.140"
+            "locked": "1.11.145",
+            "requested": "1.+"
         },
         "org.junit.jupiter:junit-jupiter-api": {
             "locked": "5.0.0-M4",
